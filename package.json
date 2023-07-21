@@ -8,6 +8,7 @@
   "dependencies": {
     "@next/bundle-analyzer": "^13.4.10",
     "@next/env": "^13.4.10",
+    "eslint-config-next": "^13.4.10",
     "next": "^13.4.10"
   }
 }
